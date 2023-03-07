@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MarvinTG17/MarvinTG17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MarvinTG17&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
 
 
-### 🛠 &nbsp; <h2>Habilidades Técnicas<h2/>
+### 🛠 &nbsp; Habilidades Técnicas
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 
-### 🙋‍♂️ &nbsp; <h2>Contáctame<h2/>
+### 🙋‍♂️ &nbsp; Contáctame
 <p align="center">
 	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 	<a href="https://github.com/MarvinTG17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
