@@ -17,14 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hola, soy Marvin Taipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><img src="https://www.canva.com/design/DAFaHAC55nA/view"></p>
-
-
-### 🪚 Detail
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MarvinTG17&theme=onedark" />
-</p>
-
+<p align="center"><img src="https://drive.google.com/file/d/1gifkZ1fYxlWOWPHpS3DFiyiVcsWify85/view?usp=sharing"></p>
 
 
 ### 🔥 Streak Stats
@@ -35,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MarvinTG17&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Habilidades Técnicas
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -46,7 +39,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 
-### 🧑🏼‍💻 Let's Connect
+### 🧑🏼‍💻 Contactame
 <p align="center">
   <a href="https://linderhassinger.info/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:linderhassinger00@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
