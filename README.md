@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Marvin Taipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" width="450"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="450"></p>
 
 
 ### 📉 &nbsp; Detalles
