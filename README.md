@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 
-### 🧑🏼‍💻 Contáctame
+### 🧑🏼‍💻 
+<h1>Contáctame<h1/>
 <p align="center">
 	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 	<a href="https://github.com/MarvinTG17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
