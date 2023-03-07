@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinTG17&theme=algolia" alt="linder3hs"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinTG17&layout=compact&theme=algolia" width="350" >
-<img src="https://github-readme-stats.vercel.app/api?username=MarvinTG17&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=MarvinTG17&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="450">
 </p> 
 
 
