@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Marvin Taipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="450"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MarvinTG17/MarvinTG17/main/fondoGit.JPG" width="450"></p>
 
 
 ### 📉 &nbsp; Detalles
