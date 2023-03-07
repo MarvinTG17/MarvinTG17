@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 <br>
-<br>
 
 ### 🙋‍♂️ &nbsp; Contáctame
 <p align="center">
