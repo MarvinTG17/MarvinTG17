@@ -7,6 +7,7 @@
 - En mis tiempos libres, investigo sobre las nuevas tendencias.
 - Manejo los lenguajes: PHP, JavaScript, Python, Django, Mysql, Oracle, Power BI.
 - Estoy abierto a cualquier opotunidad de trabajo o colaborar en algún proyecto, este es mi [CV](./CV-MarvinTaipeGongora.pdf)
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
