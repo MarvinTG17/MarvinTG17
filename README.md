@@ -7,19 +7,17 @@
 - En mis tiempos libres, investigo sobre las nuevas tendencias.
 - Manejo los lenguajes: PHP, JavaScript, Python, Django, Mysql, Oracle, Power BI.
 - Estoy abierto a cualquier opotunidad de trabajo o colaborar en algún proyecto, este es mi [CV](./CV-MarvinTaipeGongora.pdf)
-<br>
 
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; Estadísticas
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinTG17&theme=algolia" alt="linder3hs"  /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinTG17&layout=compact&theme=algolia"></p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinTG17&theme=algolia" alt="linder3hs"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinTG17&layout=compact&theme=algolia" width="400" ></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MarvinTG17&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
 
-<br>
 
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp; Habilidades Técnicas
@@ -72,6 +70,7 @@
 	</a> 
 </p>	
 
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"> &nbsp; Contáctame
