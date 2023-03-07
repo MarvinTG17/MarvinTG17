@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <p align="center"><img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaHAC55nA&#x2F;view?embed"></p>
 
 
-### 📉 &nbsp; <h2>Detalles<h2/>
+### 📉 &nbsp; Detalles
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MarvinTG17&theme=onedark" />
 </p>
 
-### 🔥 &nbsp; <h2>Estadísticas<h2/>
+### 🔥 &nbsp; Estadísticas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinTG17&theme=algolia" alt="linder3hs"  /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinTG17&layout=compact&theme=algolia"></p>
