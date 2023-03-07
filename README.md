@@ -1,8 +1,6 @@
 <h1 align="center">Hola, soy Marvin Taipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/MarvinTG17/MarvinTG17/main/fondoGit.JPG" width = 250px></picture>
-
-<br>
+<picture> <img align="right" src="https://raw.githubusercontent.com/MarvinTG17/MarvinTG17/main/fondoGit.JPG" width="350px"></picture>
 
 - Me apasiona la programación, y como estos pueden resolver los problemas cotidianos.
 - Trabajo como programador, analista y base de datos.
@@ -10,11 +8,7 @@
 - Manejo los lenguajes como: PHP, JavaScript, Python, Django, Mysql, Oracle, Power BI.
 - Estoy abierto a cualquier opotunidad de trabajo o colaborar con algun proyecto, este es mi [CV](./CV-MarvinTaipeGongora.pdf)
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br>
 
 ### 🔥 &nbsp; Estadísticas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinTG17&theme=algolia" alt="linder3hs"  /></p>
@@ -23,11 +17,7 @@
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MarvinTG17&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br>
 
 ### 🛠 &nbsp; Habilidades Técnicas
 <p align="left"> 
@@ -78,6 +68,8 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 	</a> 
 </p>	
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🙋‍♂️ &nbsp; Contáctame
 <p align="left">
