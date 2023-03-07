@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hola, soy Marvin Taipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><img src="https://drive.google.com/file/d/1gifkZ1fYxlWOWPHpS3DFiyiVcsWify85/view?usp=sharing"></p>
+<p align="center"><img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaHAC55nA&#x2F;view?embed"></p>
 
 
 ### 🔥 Streak Stats
