@@ -17,13 +17,14 @@
 
 
 ### 🛠 &nbsp; Habilidades Técnicas
-![Html](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html&logoColor=777BB4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Html](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html&logoColor=777BB4)&nbsp;
+![Ccs](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=html&logoColor=777BB4)&nbsp;
 <br>	
 
 ### 🙋‍♂️ &nbsp; Contáctame
