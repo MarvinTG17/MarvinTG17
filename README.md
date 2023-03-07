@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp; Habilidades Técnicas
-<p align="center">
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
@@ -40,11 +39,10 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-</p>
 <br>	
 
 ### 🙋‍♂️ &nbsp; Contáctame
-<p align="center">
+<p align="left">
 	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 	<a href="https://github.com/MarvinTG17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="mailto:taipe.marvin17@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
