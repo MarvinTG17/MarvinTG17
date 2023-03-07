@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 <p align="center"><img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaHAC55nA&#x2F;view?embed"></p>
 
 
-### 🔥 Streak Stats
+### 🪚 Detalles
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MarvinTG17&theme=onedark" />
+</p>
+
+### 🔥 Estadísticas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinTG17&theme=algolia" alt="linder3hs"  /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinTG17&layout=compact&theme=algolia"></p>
@@ -39,14 +44,11 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 
-### 🧑🏼‍💻 Contactame
+### 🧑🏼‍💻 Contáctame
 <p align="center">
-  <a href="https://linderhassinger.info/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:linderhassinger00@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/linder3hs"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.youtube.com/channel/UCPAg4A1jRtkY3lPdGKGS2Vg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
+	<a href="https://github.com/MarvinTG17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="mailto:taipe.marvin17@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
 
