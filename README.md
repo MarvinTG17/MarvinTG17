@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔥 &nbsp; Estadísticas
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; Estadísticas
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvinTG17&theme=algolia" alt="linder3hs"  /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarvinTG17&layout=compact&theme=algolia"></p>
