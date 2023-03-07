@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Marvin Taipe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><img src="https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" width="450"></p>
+<p align="center"><img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="450"></p>
 
 
 ### 📉 &nbsp; Detalles
