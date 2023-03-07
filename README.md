@@ -75,6 +75,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Contáctame
+&emsp;
 <p align="left">
 	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 	<a href="https://github.com/MarvinTG17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
