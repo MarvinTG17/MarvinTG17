@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ### 🛠 &nbsp; Habilidades Técnicas
-
+<p align="center">
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-<br>
+</p>
+<br>	
 
 ### 🙋‍♂️ &nbsp; Contáctame
 <p align="center">
