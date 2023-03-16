@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Marvin Taipe Gongora <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/MarvinTG17/MarvinTG17/main/fondoGit3.JPG" width="550px" height="400"></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/MarvinTG17/MarvinTG17/main/fondoGit3.JPG" width="550px" height="250"></picture>
 
 - Me apasiona la programación y como estos pueden resolver los problemas cotidianos.
 - Trabajo como programador, analista y base de datos.
