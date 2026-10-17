@@ -5,7 +5,7 @@
 - Me apasiona la programación y como estos pueden resolver los problemas cotidianos.
 - Trabajo como programador, analista y base de datos.
 - En mis tiempos libres, investigo sobre las nuevas tendencias.
-- Manejo los lenguajes: PHP, JavaScript, Python, Django, Mysql, Oracle, Power BI.
+- Manejo los lenguajes: PHP, JavaScript, Laravel, Yii, Mysql, PosgreSQL, Microsoft Report Builder, Power BI.
 - Estoy abierto a cualquier opotunidad de trabajo o colaborar en algún proyecto, este es mi [CV](./CV-MarvinTaipeGongora.pdf)
 
 <br>
@@ -28,10 +28,13 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 	</a> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 	
+	</a> 
+	<!--
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 	</a> 
+	-->
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 	</a>
@@ -60,16 +63,18 @@
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	</a> 
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 	</a> 
-	<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-	</a> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 	
+	</a>
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 	</a> 
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 	</a> 
+	<a href="https://www.microsoft.com/en-us/download/details.aspx?id=53613" target="_blank" rel="noreferrer"> 
+		<img src="https://silentinstallhq.com/wp-content/uploads/2020/10/MicrosoftReportBuilder.png" alt="nodejs" width="40" height="40"/>
+	</a>
+
 </p>	
 
 <br>
@@ -78,7 +83,7 @@
 ### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"> &nbsp; Contáctame
 
 <p align="left">
-	<a href="https://linkedin.com/in/linderhassinger"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
+	<a href="https://linkedin.com/in/marvintgongora"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	
 	<a href="https://github.com/MarvinTG17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="mailto:taipe.marvin17@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
